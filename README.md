@@ -127,6 +127,7 @@ roslaunch ego_planner normal_hexagon.launch
 
 The final video result will appear!
 
+
 Note:
 
 When there is too much communication, it indicates that the actual host cannot meet the heavy communication requirements. A recommended strategy is to disconnect from the internet.
