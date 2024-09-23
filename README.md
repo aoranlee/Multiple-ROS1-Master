@@ -126,7 +126,7 @@ roslaunch ego_planner normal_hexagon.launch
 ```
 
 The final video result will appear!
-
+![three_ip](C:\Users\lee_h\Desktop\uav\three_ip.gif)
 
 Note:
 
