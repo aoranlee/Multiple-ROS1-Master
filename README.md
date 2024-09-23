@@ -3,9 +3,8 @@ Multiple ROS Master
 
 **My configuration:**
 
-Ubuntu 20.04
-
-ROS Noetic
+- Ubuntu 20.04
+- ROS Noetic
 
 **Prerequisites:**
 
